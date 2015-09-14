@@ -1,0 +1,14 @@
+Dependencies for Project 'ex1', Target 'LPC2378': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x559D2F20)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 516"--list .\listings\lpc2300.lst --xref -o .\objects\lpc2300.o --depend .\objects\lpc2300.d)
+F (.\MCB2300 evaluationboard.c)(0x55F68EB7)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="516"-o ".\objects\mcb2300 evaluationboard.o" --omf_browse ".\objects\mcb2300 evaluationboard.crf" --depend ".\objects\mcb2300 evaluationboard.d")
+I (MCB2300 evaluationboard.h)(0x55E6ECEF)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x559D2F66)
+I (LCD.h)(0x4C8120D8)
+F (.\type.h)(0x55EB4053)()
+F (.\main.c)(0x55F69767)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="516"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC_505u2\include\stdio.h)(0x54C2B638)
+I (MCB2300 evaluationboard.h)(0x55E6ECEF)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x559D2F66)
+I (LCD.h)(0x4C8120D8)
+F (..\..\..\Downloads\LCD\LCD_4bit.c)(0x4B1047F6)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="516"-o .\objects\lcd_4bit.o --omf_browse .\objects\lcd_4bit.crf --depend .\objects\lcd_4bit.d)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC23xx.H)(0x559D2F66)
